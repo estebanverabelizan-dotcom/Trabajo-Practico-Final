@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\kurikoko\\desktop\\tpfinalvst\\tpfinalvst\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\kurikoko\\desktop\\tpfinalvst\\tpfinalvst\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Productos.vb",
+              "DocumentMoniker": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Productos.vb",
+              "RelativeDocumentMoniker": "TpFinalVST\\Productos.vb",
+              "ToolTip": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Productos.vb",
+              "RelativeToolTip": "TpFinalVST\\Productos.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-27T02:47:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.vb",
+              "DocumentMoniker": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Cliente.vb",
+              "RelativeDocumentMoniker": "TpFinalVST\\Cliente.vb",
+              "ToolTip": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Cliente.vb",
+              "RelativeToolTip": "TpFinalVST\\Cliente.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-27T02:47:22.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

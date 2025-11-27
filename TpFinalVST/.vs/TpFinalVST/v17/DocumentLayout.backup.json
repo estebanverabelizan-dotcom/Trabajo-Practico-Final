@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\kurikoko\\desktop\\tpfinalvst\\tpfinalvst\\comprar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\comprar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\kurikoko\\desktop\\tpfinalvst\\tpfinalvst\\comprar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\comprar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comprar.vb",
+              "DocumentMoniker": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Comprar.vb",
+              "RelativeDocumentMoniker": "TpFinalVST\\Comprar.vb",
+              "ToolTip": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Comprar.vb",
+              "RelativeToolTip": "TpFinalVST\\Comprar.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-27T02:30:42.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comprar.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Comprar.vb",
+              "RelativeDocumentMoniker": "TpFinalVST\\Comprar.vb",
+              "ToolTip": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Comprar.vb [Dise\u00F1o]",
+              "RelativeToolTip": "TpFinalVST\\Comprar.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-27T01:56:29.285Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
