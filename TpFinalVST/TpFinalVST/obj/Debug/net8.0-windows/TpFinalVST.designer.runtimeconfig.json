@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Kurikoko\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Kurikoko\\.nuget\\packages",
+      "C:\\Users\\Sanic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sanic\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

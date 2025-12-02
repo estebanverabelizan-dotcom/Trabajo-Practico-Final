@@ -3,39 +3,9 @@
 Public Class Cliente
     Inherits Ventas
     Private conexion As New Conexion()
-    Private _NombreCliente As String
-    Private _Telefono As String
-    Private _Correo As String
-
-    Public Property NombreCliente As String
-        Get
-            Return _NombreCliente
-        End Get
-        Set(value As String)
-            If value = "" Then Throw New Exception("El nombre no puede estar vacío.")
-            _NombreCliente = value
-        End Set
-    End Property
-
-    Public Property Telefono As String
-        Get
-            Return _Telefono
-        End Get
-        Set(value As String)
-            If value = "" Then Throw New Exception("El teléfono no puede estar vacío.")
-            _Telefono = value
-        End Set
-    End Property
-
-    Public Property Correo As String
-        Get
-            Return _Correo
-        End Get
-        Set(value As String)
-            If value = "" Then Throw New Exception("El correo no puede estar vacío.")
-            _Correo = value
-        End Set
-    End Property
+    Public NombreCliente As String
+    Public telefono As String
+    Public Correo As String
 
     Public Sub New(ID, IDVenta, IDProducto, PrecioUnitario, Cantidad, PrecioTotal, IDCliente, Fecha, Total, nombre, telefono, correo)
         MyBase.New(ID, IDVenta, IDProducto, PrecioUnitario, Cantidad, PrecioTotal, IDCliente, Fecha, Total)
@@ -111,7 +81,7 @@ Public Class Cliente
 
     Public Shared Function ObtenerGmailUsuario(nombreUsuario As String) As String
         Dim gmail As String
-        Dim conexion As New MySqlConnection("server=localhost;port=3306;user id=root;password=;database=loginregister")
+        Dim conexion As New MySqlConnection("server=localhost;port=3306;user id=root;password=;database=tpfinal")
         Using con As MySqlConnection = conexion
             con.Open()
 

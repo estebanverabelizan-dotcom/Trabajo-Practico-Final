@@ -5,22 +5,13 @@ Public Class Productos
 
     Private conexion As New Conexion()
 
-    Private _Nombre As String
+    Public Nombre As String
     Private _Precio As Decimal
     Private _Categoria As String
     Private _Compradas As Integer
     Private _Vendidas As Integer
     Private _Stock As Integer
 
-    Public Property Nombre As String
-        Get
-            Return _Nombre
-        End Get
-        Set(value As String)
-            If value = "" Then Throw New Exception("El nombre no puede estar vacío.")
-            _Nombre = value
-        End Set
-    End Property
 
     Public Property Precio As Decimal
         Get

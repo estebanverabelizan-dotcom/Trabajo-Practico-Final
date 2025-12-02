@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\",
+  "WorkspaceRootPath": "C:\\Users\\Sanic\\Desktop\\Trabajo-Practico-Final\\TpFinalVST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\kurikoko\\desktop\\tpfinalvst\\tpfinalvst\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\sanic\\desktop\\trabajo-practico-final\\tpfinalvst\\tpfinalvst\\registro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\registro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\kurikoko\\desktop\\tpfinalvst\\tpfinalvst\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|c:\\users\\sanic\\desktop\\trabajo-practico-final\\tpfinalvst\\tpfinalvst\\registro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB24514E-E5D7-4AE9-A091-E80B15E26B0F}|TpFinalVST\\TpFinalVST.vbproj|solutionrelative:tpfinalvst\\registro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Productos.vb",
-              "DocumentMoniker": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Productos.vb",
-              "RelativeDocumentMoniker": "TpFinalVST\\Productos.vb",
-              "ToolTip": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Productos.vb",
-              "RelativeToolTip": "TpFinalVST\\Productos.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Title": "Registro.vb",
+              "DocumentMoniker": "C:\\Users\\Sanic\\Desktop\\Trabajo-Practico-Final\\TpFinalVST\\TpFinalVST\\Registro.vb",
+              "RelativeDocumentMoniker": "TpFinalVST\\Registro.vb",
+              "ToolTip": "C:\\Users\\Sanic\\Desktop\\Trabajo-Practico-Final\\TpFinalVST\\TpFinalVST\\Registro.vb",
+              "RelativeToolTip": "TpFinalVST\\Registro.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wCgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-11-27T02:47:45.447Z",
+              "WhenOpened": "2025-12-02T02:03:23.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cliente.vb",
-              "DocumentMoniker": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Cliente.vb",
-              "RelativeDocumentMoniker": "TpFinalVST\\Cliente.vb",
-              "ToolTip": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\Cliente.vb",
-              "RelativeToolTip": "TpFinalVST\\Cliente.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAA8AAAAAAAAAA==",
+              "Title": "Registro.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sanic\\Desktop\\Trabajo-Practico-Final\\TpFinalVST\\TpFinalVST\\Registro.vb",
+              "RelativeDocumentMoniker": "TpFinalVST\\Registro.vb",
+              "ToolTip": "C:\\Users\\Sanic\\Desktop\\Trabajo-Practico-Final\\TpFinalVST\\TpFinalVST\\Registro.vb [Dise\u00F1o]",
+              "RelativeToolTip": "TpFinalVST\\Registro.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-11-27T02:47:22.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T02:03:22.377Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

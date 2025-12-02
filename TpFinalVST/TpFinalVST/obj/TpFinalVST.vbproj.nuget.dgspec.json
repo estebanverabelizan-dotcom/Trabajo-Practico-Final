@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj": {}
+    "C:\\Users\\Sanic\\Downloads\\Trabajo-Practico-Final-main\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj": {
+    "C:\\Users\\Sanic\\Downloads\\Trabajo-Practico-Final-main\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj",
+        "projectUniqueName": "C:\\Users\\Sanic\\Downloads\\Trabajo-Practico-Final-main\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj",
         "projectName": "TpFinalVST",
-        "projectPath": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj",
-        "packagesPath": "C:\\Users\\Kurikoko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kurikoko\\Desktop\\TpFinalVST\\TpFinalVST\\obj\\",
+        "projectPath": "C:\\Users\\Sanic\\Downloads\\Trabajo-Practico-Final-main\\TpFinalVST\\TpFinalVST\\TpFinalVST.vbproj",
+        "packagesPath": "C:\\Users\\Sanic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sanic\\Downloads\\Trabajo-Practico-Final-main\\TpFinalVST\\TpFinalVST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kurikoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sanic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

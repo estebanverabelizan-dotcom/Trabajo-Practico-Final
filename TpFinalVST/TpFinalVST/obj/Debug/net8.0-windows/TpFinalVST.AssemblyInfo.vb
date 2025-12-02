@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("TpFinalVST"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bff56f6efefffea3f8b311931a9d76748ec6d025"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("TpFinalVST"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("TpFinalVST"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

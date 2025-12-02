@@ -32,7 +32,7 @@ Public Class Registro
         Close()
         RegLog.Show()
     End Sub
-    Public conexiones As New MySqlConnection("server=localhost;port=3306;user id=root;password=;database=loginregister")
+    Dim conexiones As New MySqlConnection("server=localhost;port=3306;user id=root;password=;database=tpfinal")
     Private Sub Registrar_Click(sender As Object, e As EventArgs) Handles Registrar.Click
         Try
             conexiones.Open()

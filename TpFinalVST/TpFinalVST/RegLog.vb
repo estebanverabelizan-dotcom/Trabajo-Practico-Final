@@ -39,7 +39,7 @@ Public Class RegLog
     End Sub
 
 
-    Dim conexion As New MySqlConnection("server=localhost;port=3306;user id=root;password=;database=loginregister")
+    Dim conexion As New MySqlConnection("server=localhost;port=3306;user id=root;password=;database=tpfinal")
     Private Sub Logear_Click(sender As Object, e As EventArgs) Handles Logear.Click
         UsuarioActual = TextBox1.Text
         gmailActual = Cliente.ObtenerGmailUsuario(UsuarioActual)
